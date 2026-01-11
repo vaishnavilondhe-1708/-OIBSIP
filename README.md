@@ -1,10 +1,21 @@
-# McDonald's Sales Analysis ✅ TASK 1 COMPLETE
+# McDonald's Sales Analysis ✅ TASK 1 SUBMISSION
 
-## 📈 Results
-![Category Analysis](download (2).png)
-![Top Items](download.png)
+## 📊 Executive Summary
+**260+ menu items** analyzed using **Calories as sales proxy**
 
-## 📊 Insights
-- **Smoothies & Shakes**: 612 cal avg (TOP SELLER)
-- **Breakfast**: 452 cal avg  
-- **260+ items analyzed**
+## 🔑 Key Insights
+| Category | Avg Calories | Business Action |
+|----------|--------------|-----------------|
+| **Smoothies & Shakes** | **612** | **Premium pricing** |
+| Breakfast | 452 | **Menu optimization** |
+| Beef & Pork | 448 | **Consistent performer** |
+
+## 📈 Visualizations
+
+### Category Performance
+![Sales by Category](category_analysis.png)
+
+### Top Products
+![Top 10 Items](top_items_analysis.png)
+
+## 🛠️ Technical Stack
