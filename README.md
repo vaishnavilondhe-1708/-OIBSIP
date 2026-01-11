@@ -13,9 +13,9 @@
 ## 📈 Visualizations
 
 ### Category Performance
-![Sales by Category](category_analysis.png)
+![Sales by Category](download2.png)
 
 ### Top Products
-![Top 10 Items](top_items_analysis.png)
+![Top 10 Items](download.png)
 
 ## 🛠️ Technical Stack
