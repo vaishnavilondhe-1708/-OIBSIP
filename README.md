@@ -6,3 +6,4 @@
 - **260+ items analyzed**
 
 ## 🛠️ Technical Stack
+-**🐍 Python | Pandas | Matplotlib | Seaborn**
