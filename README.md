@@ -1,8 +1,8 @@
 # McDonald's Sales Analysis ✅ TASK 1 COMPLETE
 
 ## 📈 Results
-download.png
-download1.png
+![Category Analysis](download (2).png)
+![Top Items](download.png)
 
 ## 📊 Insights
 - **Smoothies & Shakes**: 612 cal avg (TOP SELLER)
